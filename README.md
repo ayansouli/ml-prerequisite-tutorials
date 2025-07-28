@@ -1,1 +1,1 @@
-# ml-prerequisite-tutorials
+# ml-tutorials
